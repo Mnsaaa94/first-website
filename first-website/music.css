@@ -1,0 +1,42 @@
+#mainArea
+{
+	margin: 30px;
+}
+
+#musicTitle
+{
+	text-decoration: underline;
+	margin-bottom: 10px;
+}
+
+#firstList
+{
+	margin-left: 30px;
+}
+
+#exoImg
+{
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+
+#btsImg
+{
+	margin-left: 40px;
+	margin-bottom: 20px;
+}
+
+#bigbangImg
+{
+	margin-left: 40px;
+}
+
+#secondaryList
+{
+	margin-left: 60px;
+}
+
+#video
+{
+	margin-left: 40px;
+}
